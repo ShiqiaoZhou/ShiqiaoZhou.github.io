@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Design of trajectory optimization and control system for virtual photographic robot based on 6-DOF serial robot
-description: My undergraduation thesis
+description: An interdisciplinary topic based on Robotics with computation, optimazation and simulation.
 img: assets/img/Projects/CameraRobot.png
 importance: 4
 category: Research Experiences
 ---
+
+This is an Undergraduate Graduation thesis in Nanjing University of Sci & Tech
 
 For the ever-increasing quality and quantity of programs in the TV industry,
 the emergence of photographic robots can improve shooting efficiency and ensure
@@ -34,6 +36,8 @@ completed, and the interpolation method of the polynomial degree five is
 selected based on the smoothing of the joint angular velocity curve. A
 simulation of the shooting path of the photographic robot was carried out in
 MATLAB .
+
+Results: This is awarded excellent graduation design in my bachelor university. I got a score of 95 (4.0/4.0) in final. 
 
 If you would like to read, please see [this](https://drive.google.com/file/d/1DN62gg_latEsRTYYFz42_sJ9zcDHGFzI/view?usp=share_link). Notice that it is orignally written in Chinese. And its English version may contains many errors and I do not have time to fix them. Sorry for that.
 

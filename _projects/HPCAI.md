@@ -1,17 +1,19 @@
 ---
 layout: page
 title: Deep Learning Based DNA Sequence Fast Decoding
-description: One questiin in the 5th APAC HPC – AI competition, Singapore
+description: A segmentation-like question in the 5th APAC HPC – AI competition
 img: assets/img/Projects/HPC_resnet.png
 importance: 3
 category: Research Experiences
 ---
 
+This is 3rd question in [the 5th APAC HPC – AI competition](https://www.hpcadvisorycouncil.com/events/2022/APAC-AI-HPC/), Singapore
+
 Transcription factor (TF) plays a key role in the gene expression regulation network. Using the traditional experiment-based methods to decode Transcription factor binding sites is usually restricted by the limitation of time and resources. Therefore, building a DL-based model to decode the Transcription factor binding site in high resolution will help us better understand Transcription factor’s regulatory mechanisms.
 
 In this competition, we built and tested deep learning models to predict the transcription factor binding site by a given target DNA sequence. We Modified Unet, Resnet, ViT and other DL models to improve the accuracy and efficiency of putative transcription factor binding sites --- a segmentation-like task. And we utilized multiple GPUs provided by the HPC to boost the model training process. 
 
-We finally obtained a Merit Prize.
+Results: A Merit Prize.
 
 <!-- - Review
   - Chem. Soc. Rev., 2022, 51, 8415-8433. [[HTML]](https://doi.org/10.1039/D2CS00367H) [[PDF]](https://zishengz.github.io/assets/pdf/papers/2022chemsocrev.pdf)

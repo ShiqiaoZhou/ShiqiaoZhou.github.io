@@ -12,7 +12,9 @@ contributing. While prior investigations have used surveys and biosensors to det
 
 We proposed six Deep Learning and BERT models for frustration detection. And we compared their performances among the models to select the best models; these were tested on commits mined from OSS repositories written in Python, Java and C/C++. By studying the original commits and model structures, we analysed the reasons behind the training and testing results, and the different types of errors. Finally, we summarised the experimental results with analysis and discussed the future work.
 
-I got a score of 84 (High Distinction) finally. You can read my report [here](https://drive.google.com/file/d/1Qi_HMFji602KSxk0rhJqvtjI-ql42jR7/view?usp=sharing)
+Results: I got a score of 84 (High Distinction). 
+
+You can read my report [here](https://drive.google.com/file/d/1Qi_HMFji602KSxk0rhJqvtjI-ql42jR7/view?usp=sharing)
 
 
 <!-- - Review & Perspective
