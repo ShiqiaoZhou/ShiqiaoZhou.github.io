@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>At the intersection of catalysis, material science, and theoretical chemistry</i>
+subtitle: <i>At data science, deep learning and NLP</i>
 
 profile:
   align: right
