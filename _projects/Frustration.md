@@ -2,7 +2,7 @@
 layout: page
 title: Comparing DL and BERT Methods on Commits’ Frustration Detection
 description: Compared and analysed different Deep Learning and BERT models for frustration detection
-img: assets/img/publication_preview/Test_Confusion_Matrix_big.png
+img: assets/img/Confu_Matrix.png
 importance: 1
 category: research
 ---
