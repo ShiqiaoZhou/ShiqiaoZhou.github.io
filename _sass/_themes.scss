@@ -3,17 +3,17 @@
  ******************************************************************************/
  
 :root {
-  --global-bg-color: #{$ucla-light-blue};
+  --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$ucla-purple};
-  --global-hover-color: #{$ucla-purple};
+  --global-theme-color: #{$ANU-Gold-tint};
+  --global-hover-color: #{$ANU-Gold-tint};
   --global-footer-bg-color: #{$ucla-dark-blue};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
-  --global-divider-color: #{$ucla-blue};
+  --global-divider-color: #{$ANU-Gold};
   --global-card-bg-color: #{$white-color};
 
   .fa-sun {
