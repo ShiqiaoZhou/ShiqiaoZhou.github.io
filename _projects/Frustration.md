@@ -2,7 +2,7 @@
 layout: page
 title: Comparing DL and BERT Methods on Commits’ Frustration Detection
 description: Compared and analysed different Deep Learning and BERT models for frustration detection
-img: assets/img/publication_preview/Test Confusion Matrix_big.png
+img: assets/img/publication_preview/Test_Confusion_Matrix_big.png
 importance: 1
 category: research
 ---
@@ -10,7 +10,9 @@ category: research
 Frustration and negative emotions can affect the efficiency and productivity of software developers. This is especially true in the OSS (open-source software) community, where the toxicity that pervades the community diminishes the developers’ interest in
 contributing. While prior investigations have used surveys and biosensors to detect developers’ emotions, these approaches are inefficient and not applicable to large numbers of developers, due to cost- and ethic-related concerns. 
 
-In our report, we proposed six Deep Learning and BERT models for frustration detection. We compared their performances among the models to select the best models; these were tested on commits mined from OSS repositories written in Python, Java and C/C++. By studying the original commits and model structures, we analysed the reasons behind the training and testing results, and the different types of errors. Finally, we summarised the experimental results with analysis and discussed the future work.
+We proposed six Deep Learning and BERT models for frustration detection. And we compared their performances among the models to select the best models; these were tested on commits mined from OSS repositories written in Python, Java and C/C++. By studying the original commits and model structures, we analysed the reasons behind the training and testing results, and the different types of errors. Finally, we summarised the experimental results with analysis and discussed the future work.
+
+You can read my report [here](https://drive.google.com/file/d/1Qi_HMFji602KSxk0rhJqvtjI-ql42jR7/view?usp=sharing)
 
 
 <!-- - Review & Perspective
