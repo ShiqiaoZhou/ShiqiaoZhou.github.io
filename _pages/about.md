@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Interested data science, deep learning and NLP</i>
+subtitle: <i>Interested in data science, deep learning, NLP and Robotics</i>
 
 profile:
   align: left
   image: ShiqiaoZhou.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     Tianjin, China
 
@@ -16,11 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! I am Shiqiao Zhou, a master of computing graduate in CECC at the [Austalian National University](https://www.chemistry.ucla.edu/), advised by [Prof. Anastaissia N. Alexandrova](http://www.chem.ucla.edu/~ana/). I obtained my M.Sc. in Computing from UCLA in 2021, in the same group. Prior to joining UCLA, I received my B.Sc. in Chemistry from the [South University of Science and Technology of China](http://science-en.sustech.edu.cn/research/focusd/id/436.html) in 2019, advised by [Prof. Jun Li](http://www.junlilab.org/). 
+Greetings! I am a master of computing graduate in CECC at the [Austalian National University](https://https://www.anu.edu.au/), advised by [Dr. Melina Vidoni](https://melvidoni.rbind.io/#about). I received my B.Eng. in Mechanical Engineering from the [Nanjing University of Science and Technology](https://english.njust.edu.cn/) in 2019, advised by [Researcher. Jun Han](http://www.junlilab.org/). <i>Currently, I am looking for a Ph.D. position<i>.
 
-I am passionate about a wide range of topics in theoretical and computational chemistry, including both method development and applications. My current research focuses on realistic modeling of fluxional clusters, restructuring surfaces, and electrochemical interfaces under reaction conditions. I am also interested in inverse design of functional molecules/materials, chemical bonding analysis, global optimization algorithms, and data-driven methods. Please take a look at the "projects" page to learn more about my research and publications!
+I am passionate about a wide range of topics in computer science, including both method development and applications. My current research focuses on realistic modeling of fluxional clusters, restructuring surfaces, and electrochemical interfaces under reaction conditions. I am also interested in inverse design of functional molecules/materials, chemical bonding analysis, global optimization algorithms, and data-driven methods. Please take a look at the "projects" page to learn more about my research and publications!
 
-Trivia: I was a UCLA-CSST fellow in 2018 and a Edwin W. Pauley Fellow in 2019-2023. I did a research internship at Center for Nanoscale Materials, Argonne National Lab in 2022.
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
 - Development of global optimizers with grand canonical and multi-objective functionality for structure search of crystals, clusters, and surfaces.
