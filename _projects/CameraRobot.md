@@ -9,7 +9,7 @@ category: Research Experiences
 
 This is an Undergraduate Graduation thesis in Nanjing University of Sci & Tech
 
-For the ever-increasing quality and quantity of programs in the TV industry,
+For the ever-increasing quality and quantity of programs in the Film and television industry,
 the emergence of photographic robots can improve shooting efficiency and ensure
 high shooting accuracy. Among them, the versatile, flexible redundant
 photography robot is a higher-end industry. This project has developed a new
