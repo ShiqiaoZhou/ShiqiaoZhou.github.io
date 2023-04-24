@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i>Interested in deep learning, NLP, data science, and Robotics</i>
+subtitle: <i>Interested in deep learning, data science, and Robotics</i>
 
 profile:
   align: left

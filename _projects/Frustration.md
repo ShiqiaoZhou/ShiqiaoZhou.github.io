@@ -2,9 +2,9 @@
 layout: page
 title: Comparing DL and BERT Methods on Commits’ Frustration Detection
 description: This is my Master Graduation Project, advised by Dr. Melina Vidoni
-img: assets/img/Confu_Matrix.png
+img: assets/img/Projects/Confu_Matrix.png
 importance: 1
-category: research
+category: Research Experiences
 ---
 
 Frustration and negative emotions can affect the efficiency and productivity of software developers. This is especially true in the OSS (open-source software) community, where the toxicity that pervades the community diminishes the developers’ interest in
