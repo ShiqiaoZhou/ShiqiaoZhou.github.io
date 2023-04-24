@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 Teaching Assistant of [COMP6490 Document Analysis](https://programsandcourses.anu.edu.au/2022/course/comp6490), Australian National University, 2022

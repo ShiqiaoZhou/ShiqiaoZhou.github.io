@@ -4,7 +4,7 @@ title: Realistic modeling of electrochem interfaces
 description: Life is complicated, let’s face it
 img: assets/img/art_electrochem.png
 importance: 2
-category: research
+category: ongoing
 ---
 
 Electrochemical reactions takes place at the electrolyte/electrode interface, with various factors at play.
