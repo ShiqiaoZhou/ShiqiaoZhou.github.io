@@ -1,10 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV_Shiqiao Zhou_ANU_v3.pdf
+cv_pdf: CV_SQZ_v3.pdf
 ---
 
  

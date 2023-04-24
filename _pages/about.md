@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <i>Interested in data science, deep learning, NLP and Robotics</i>
 
