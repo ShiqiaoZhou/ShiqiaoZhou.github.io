@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Ensemble Representation of Dynamic Catalysts
-description: Weird metastable states and how to find them
-img: assets/img/publication_preview/toc_2020accounts.jpeg
+title: Comparing DL and BERT Methods on Commits’ Frustration Detection
+description: Compared and analysed different Deep Learning and BERT models for frustration detection
+img: assets/img/publication_preview/Test Confusion Matrix_big.png
 importance: 1
 category: research
 ---
 
-The surface of heterogeneous catalyst is subject to heat, electrochemical potential, and the coverage of adsorbates, which could render the catalytic interface dynamic, make the surface restructure, and change its chemical composition beyond recognition. At finite temperature, multiple surface states may coexist, and they could diverge in structure, composition, and reactivity. Modeling the catalysis realistically hence requires going beyond the (putative) global minimum structure of the catalyst, and including also the accessible local minima.
+Frustration and negative emotions can affect the efficiency and productivity of software developers. This is especially true in the OSS (open-source software) community, where the toxicity that pervades the community diminishes the developers’ interest in
+contributing. While prior investigations have used surveys and biosensors to detect developers’ emotions, these approaches are inefficient and not applicable to large numbers of developers, due to cost- and ethic-related concerns. 
 
-A better representation of the catalytic interface is hence a ensemble of metastable surface states. We can go even further to make the ensemble grand canonical to describe systems that restructures off-stoichiometrically. The population of each state can be determined by the thermodynamics of the states and statistical models. In this way, better prediction of properties can be made based on the ensemble averages, and the contribution of each state to the overall property/reactivity can be evaluated.
-
-Constructing such an ensemble requires a huge amount of sampling. To make the minima search more efficient, I developed the Global Optimizer for Clusters, Interfaces, and Adsorbates (GOCIA), an open-source *Python* Package which features Grand Canonical Genetic Algorithm (GCGA).
+In our report, we proposed six Deep Learning and BERT models for frustration detection. We compared their performances among the models to select the best models; these were tested on commits mined from OSS repositories written in Python, Java and C/C++. By studying the original commits and model structures, we analysed the reasons behind the training and testing results, and the different types of errors. Finally, we summarised the experimental results with analysis and discussed the future work.
 
 
 <!-- - Review & Perspective
