@@ -16,9 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! I am a master of computing graduate in CECC at the [Austalian National University](https://https://www.anu.edu.au/), advised by [Dr. Melina Vidoni](https://melvidoni.rbind.io/#about). I received my B.Eng. in Mechanical Engineering from the [Nanjing University of Science and Technology](https://english.njust.edu.cn/) in 2019, advised by [Researcher. Jun Han](http://www.junlilab.org/). <i>Currently, I am looking for a Ph.D. position<i>.
+Greetings! I am a fresh graduate of master of computing in CECC at the [Austalian National University](https://https://www.anu.edu.au/), advised by [Dr. Melina Vidoni](https://melvidoni.rbind.io/#about). I received my B.Eng. in Mechanical Engineering from the [Nanjing University of Science and Technology](https://english.njust.edu.cn/) in 2019, advised by Researcher, Jun Han. 
+<i>Currently, I am looking for a deep learning related Ph.D. position<i>.
 
-I am passionate about a wide range of topics in computer science, including both method development and applications. My current research focuses on realistic modeling of fluxional clusters, restructuring surfaces, and electrochemical interfaces under reaction conditions. I am also interested in inverse design of functional molecules/materials, chemical bonding analysis, global optimization algorithms, and data-driven methods. Please take a look at the "projects" page to learn more about my research and publications!
+I am passionate about a wide range of topics in computer science, including both method development and applications. My current focuses are on deep leaning methods, down stream NLP tasks and data science. I am also interested in trajectory planning of Robotics. Please take a look at the "projects" page to learn more about my precious experiences!
 
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
