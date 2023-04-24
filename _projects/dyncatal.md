@@ -14,7 +14,7 @@ A better representation of the catalytic interface is hence a ensemble of metast
 Constructing such an ensemble requires a huge amount of sampling. To make the minima search more efficient, I developed the Global Optimizer for Clusters, Interfaces, and Adsorbates (GOCIA), an open-source *Python* Package which features Grand Canonical Genetic Algorithm (GCGA).
 
 
-- Review & Perspective
+<!-- - Review & Perspective
   - Acc. Chem. Res., 2020, 53, 2, 447-458. [[HTML]](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.9b00531) [[PDF]](https://zishengz.github.io/assets/pdf/papers/2020accounts.pdf)
   - Chem. Sci., 2022, 13, 27, 8003-8016. [[HTML]](https://doi.org/10.1039/D2SC01367C) [[PDF]](https://zishengz.github.io/assets/pdf/papers/2022chemsci.pdf)
 - Thermal Catalysis
@@ -26,4 +26,4 @@ Constructing such an ensemble requires a huge amount of sampling. To make the mi
   - ChemCatChem, 2022, 14, 15, e202200345. [[HTML]](https://doi.org/10.1002/cctc.202200345) [[PDF]](https://zishengz.github.io/assets/pdf/papers/2022chemcatchem.pdf)
   - J. Am. Chem. Soc., 2022, 144, 42, 19284–19293. [[HTML]](https://pubs.acs.org/doi/10.1021/jacs.2c06188) [[PDF]](https://zishengz.github.io/assets/pdf/papers/2022jacs.pdf)
   - ACS Catal. 2022, 12, 23, 14517–14526. [[HTML]](https://pubs.acs.org/doi/abs/10.1021/acscatal.2c04643) [[PDF]](https://zishengz.github.io/assets/pdf/papers/2022acscatal_3.pdf)
-  <!-- - Preprint on size-dependent HER reactivity of Pt clusters. [[ChemRxiv]](http://doi.org/10.26434/chemrxiv-2022-ssh9n) -->
+  - Preprint on size-dependent HER reactivity of Pt clusters. [[ChemRxiv]](http://doi.org/10.26434/chemrxiv-2022-ssh9n) -->
