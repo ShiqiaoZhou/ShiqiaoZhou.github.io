@@ -22,7 +22,7 @@ Greetings! I am a fresh graduate of Master of Computing in CECC at the [Australi
 I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on deep leaning methods, down stream NLP tasks, data science and Robotics. Please take a look at the "projects" page to learn more!
 
 <h2 style="font-weight: bolder">Current</h2>
-<i>Currently, I am looking for a deep learning related Ph.D. position<i>.
+<i>Currently, I am looking for a deep learning/data science related Ph.D. position<i>.
 
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
