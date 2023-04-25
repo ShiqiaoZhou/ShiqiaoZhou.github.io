@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i>Interested in deep learning, data science, and Robotics</i>
+subtitle: <i>Be water</i>
 
 profile:
   align: left
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
