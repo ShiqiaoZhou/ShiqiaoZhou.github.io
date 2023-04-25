@@ -5,7 +5,7 @@ permalink: /
 subtitle: <i>Be water</i>
 
 profile:
-  align: left
+  align: right
   image: Picture.png
   image_circular: true # crops the image to make it circular
   address: >
