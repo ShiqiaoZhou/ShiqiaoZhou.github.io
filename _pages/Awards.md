@@ -4,7 +4,7 @@ permalink: /Awards/
 title: Awards
 description: 
 nav: true
-nav_order: 9
+nav_order: 5
 ---
 •   Merit Prize, 5th APAC HPC-AI Competion, Singapore (2022)
 
