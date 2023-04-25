@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Design of trajectory optimization and control system for virtual photographic robot based on 6-DOF serial robot
-description: An interdisciplinary topic based on Robotics with computation, optimazation and simulation.
+title: The Motion and Visual Control of the Mobile Robot Car
+description: Scientific Research Project of Chinese Academy of Sciences
 img: assets/img/Projects/CASRobot.png
 importance: 5
 category: Research Experiences
