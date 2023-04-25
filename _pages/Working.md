@@ -2,19 +2,17 @@
 layout: page
 permalink: /TaW/
 title: Teaching & Working
-description: 
+description: List my formal employments in last years
 nav: true
 nav_order: 3
 ---
-<h2 class="post-title">Teaching and Working Experiences</h2>
-
 <h2 class="post-title">Teaching</h2>
 •   Teaching Assistant of [COMP6490 Document Analysis](https://programsandcourses.anu.edu.au/2022/course/comp6490), Australian National University, 2022
 
 <h2 class="post-title">Internships</h2>
 •   AI Algorithm Intern, [Pharmcube Ltd.](https://www.pharmcube.com/), 2022
 
-•   Software Development Intern, [Bosch (China) Investment Ltd.](https://www.bosch.com.cn/), 2021
+•   Software Development Intern, [Bosch (China) Investment Ltd.](https://www.bosch.com.cn/en/), 2021
 
 •   Mechanical Engineering Intern, [TRUMPF China](https://www.trumpf.com/en_INT/), 2020
 
