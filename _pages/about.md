@@ -6,7 +6,7 @@ subtitle: <i>Be water</i>
 
 profile:
   align: left
-  image: ShiqiaoZhou.jpg
+  image: Picture.jpg
   image_circular: true # crops the image to make it circular
   address: >
 
