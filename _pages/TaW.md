@@ -2,7 +2,7 @@
 layout: page
 permalink: /TaW/
 title: Teaching & Working
-description: List my formal employments in last years
+description: List my formal employments over the past years
 nav: true
 nav_order: 3
 ---
