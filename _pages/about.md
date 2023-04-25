@@ -14,6 +14,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<h1 style="font-weight: bolder">Current</h1>
+<i>Currently, I am looking for a deep learning related Ph.D. position<i>.
 
 Greetings! I am a fresh graduate of Master of Computing in CECC at the [Australian National University](https://https://www.anu.edu.au/), advised by [Dr. Melina Vidoni](https://melvidoni.rbind.io/#about). I received my B.Eng. in Mechanical Engineering from the [Nanjing University of Science and Technology](https://english.njust.edu.cn/) in 2019, advised by Dr. Jun Han and Dr. Yi Ou. 
 <i>Currently, I am looking for a deep learning related Ph.D. position<i>.
