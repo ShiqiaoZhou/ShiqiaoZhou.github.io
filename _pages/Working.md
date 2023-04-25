@@ -1,22 +1,24 @@
 ---
 layout: page
-permalink: /Working/
-title: Working Experiences
+permalink: /TaW/
+title: Teaching & Working
 description: 
 nav: true
 nav_order: 3
 ---
+<h2 class="post-title">Teaching and Working Experiences</h2>
+
 <h2 class="post-title">Teaching</h2>
 •   Teaching Assistant of [COMP6490 Document Analysis](https://programsandcourses.anu.edu.au/2022/course/comp6490), Australian National University, 2022
 
 <h2 class="post-title">Internships</h2>
-•   AI Algorithm Intern, Pharmcube Ltd. 2022
+•   AI Algorithm Intern, [Pharmcube Ltd.](https://www.pharmcube.com/), 2022
 
-•   Software Development Intern, Bosch (China) Investment Ltd. 2021
+•   Software Development Intern, [Bosch (China) Investment Ltd.](https://www.bosch.com.cn/), 2021
 
-•   Mechanical Engineering Intern, TRUMPF China, 2020
+•   Mechanical Engineering Intern, [TRUMPF China](https://www.trumpf.com/en_INT/), 2020
 
-•   Mechanical Engineering Intern, AUTOMOTIVE ENGINEERING CORPORATION, 2019
+•   Mechanical Engineering Intern, [AUTOMOTIVE ENGINEERING CORPORATION](https://en.chinaaie.com.cn/), 2019
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
