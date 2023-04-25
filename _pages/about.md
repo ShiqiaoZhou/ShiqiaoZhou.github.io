@@ -15,14 +15,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<h2 style="font-weight: bolder">Current</h2>
-<i>Currently, I am looking for a deep learning related Ph.D. position<i>.
-
 <h2 style="font-weight: bolder">About me</h2>
 Greetings! I am a fresh graduate of Master of Computing in CECC at the [Australian National University](https://https://www.anu.edu.au/), advised by [Dr. Melina Vidoni](https://melvidoni.rbind.io/#about). I received my B.Eng. in Mechanical Engineering from the [Nanjing University of Science and Technology](https://english.njust.edu.cn/) in 2019, advised by Dr. Jun Han and Dr. Yi Ou. 
 
 
 I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on deep leaning methods, down stream NLP tasks, data science and Robotics. Please take a look at the "projects" page to learn more!
+
+<h2 style="font-weight: bolder">Current</h2>
+<i>Currently, I am looking for a deep learning related Ph.D. position<i>.
 
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
