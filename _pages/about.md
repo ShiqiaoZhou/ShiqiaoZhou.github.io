@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i>Be water</i>
+subtitle: <i>Not pleased by external gains, not saddened by personal losses</i>
 
 profile:
   align: right
