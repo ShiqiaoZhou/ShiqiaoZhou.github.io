@@ -22,9 +22,9 @@ Greetings! I am a first year Computer Science PhD student at [University of Birm
 I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on (1) machine learning topics, such as domain/model adaptation, transfer learning. (2) data stream topics, such as data uncertainty, online learning. (3) machine learning application in complex real-world data (e.g., time series, text, building, mechanical structure). 
 
 <h2 style="font-weight: bolder">Current Research Focus</h2>
-<i>(1) machine learning topics such as domain/model adaptation, transfer learning.<i>.
-<i>(2) data stream topics, such as data uncertainty, online learning.<i>.
-<i>(3) machine learning application in complex real-world data.<i>.
+<i>(1) Machine learning topics, such as domain/model adaptation, transfer learning</i><br>
+<i>(2) Data stream topics, such as data uncertainty, online learning</i><br>
+<i>(3) Machine learning application in complex real-world data</i>
 
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
