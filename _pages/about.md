@@ -19,10 +19,10 @@ social: true  # includes social icons at the bottom of the page
 Greetings! I am a first year Computer Science PhD student at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Prof. Grant Wilson and Dr. Schoener Holger. Before that, I graduated from the [Australian National University](https://https://www.anu.edu.au/) with Master of Computing in 2022, advised by [Dr. Melina Vidoni](https://melvidoni.rbind.io/#about). I received my B.Eng. in Mechanical Engineering from the [Nanjing University of Science and Technology](https://english.njust.edu.cn/) in 2019, advised by Dr. Jun Han and Dr. Yi Ou. 
 
 
-I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on (1) machine learning topics, such as domain/model adaptation, transfer learning. (2) data stream topics, such as data uncertainty, online learning. (3) machine learning application in complex real-world data (e.g., time series, text, building, mechanical structure).
+I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on (1) machine learning topics, such as domain/model adaptation, transfer learning. (2) data stream topics, such as data uncertainty, online learning. (3) machine learning application in complex real-world data (e.g., time series, text, building, mechanical structure). 
 
 <h2 style="font-weight: bolder">Current Research Focus</h2>
-<i>(1) machine learning topics like domain/model adaptation and transfer learning.<i>.
+<i>(1) machine learning topics such as domain/model adaptation, transfer learning.<i>.
 <i>(2) data stream topics, such as data uncertainty, online learning.<i>.
 <i>(3) machine learning application in complex real-world data.<i>.
 
