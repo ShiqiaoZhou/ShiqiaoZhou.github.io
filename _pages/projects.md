@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection...
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Research Experiences,]
 horizontal: false
