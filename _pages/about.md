@@ -25,11 +25,11 @@ I am passionate about a wide range of topics in CS, including both method develo
 Greetings! I am a first year Computer Science PhD student at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Prof. Grant Wilson and Dr. Schoener Holger. Before that, I graduated from the Australian National University and Nanjing University of Science and Technology in 2022 and 2019.
 
 
-I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on (1) machine learning topics, such as domain/model adaptation, transfer learning. (2) data stream topics, such as data uncertainty, online learning. (3) machine learning application in complex real-world data (e.g., time series, text, building, mechanical structure). 
+I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on domain adaptation and time series data.
 
 
 <h2 style="font-weight: bolder">Current Research Focus</h2>
-<i>(1) Machine learning topics, such as domain/model adaptation, transfer learning</i><br>
+<i>(1) Transfer learning topics, such as multi domain adaptation, online domain adaptation</i><br>
 <i>(2) Data stream topics, such as data uncertainty, online learning</i><br>
 <i>(3) Machine learning application in complex real-world data</i>
 
