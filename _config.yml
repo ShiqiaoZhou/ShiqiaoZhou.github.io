@@ -130,7 +130,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: zishengz/zishengz.github.io      # <your-github-user-name>/<your-github-repo-name>
+  repo: shiqiaozhou/shiqiaozhou.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: 612067330
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
@@ -143,7 +143,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: zisheng_zhang # put your disqus shortname
+disqus_shortname: shiqiao_zhou # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -254,8 +254,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Zhang
-  first_name: Zisheng
+  last_name: Zhou
+  first_name: Shqiiao
 
   style: apa
   locale: en

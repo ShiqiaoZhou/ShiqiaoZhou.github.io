@@ -29,9 +29,9 @@ I am passionate about a wide range of topics in CS, including both method develo
 
 
 <h2 style="font-weight: bolder">Current Research Focus</h2>
-<i>(1) Transfer learning topics, such as multi domain adaptation, online domain adaptation</i><br>
-<i>(2) Data stream topics, such as data uncertainty, online learning</i><br>
-<i>(3) Machine learning application in complex real-world data</i>
+<i>(1) Transfer learning, such as multi-source domain adaptation, online domain adaptation</i><br>
+<i>(2) Time series forecasting, such as LLM-based forecasting</i><br>
+<i>(3) Machine learning applications in complex real-world data</i>
 
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
