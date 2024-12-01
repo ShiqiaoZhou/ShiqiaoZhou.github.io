@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /TaW/
-title: Teaching & Working
+title: teaching & working
 description: List my formal employments over the past years
 nav: true
 nav_order: 3
 ---
 <h2 class="post-title">Teaching</h2>
+•   Teaching Assistant of Artificial Intelligence 1, University of Birmingham, 2025
 •   Teaching Assistant of [COMP6490 Document Analysis](https://programsandcourses.anu.edu.au/2022/course/comp6490), Australian National University, 2022
 
 <h2 class="post-title">Internships</h2>
