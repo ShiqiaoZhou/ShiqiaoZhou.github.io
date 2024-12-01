@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <i>Not pleased by external gains, not saddened by personal losses</i>
 
@@ -22,14 +22,14 @@ Greetings! I am a first year Computer Science PhD student at [University of Birm
 I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on (1) machine learning topics, such as domain/model adaptation, transfer learning. (2) data stream topics, such as data uncertainty, online learning. (3) machine learning application in complex real-world data (e.g., time series, text, building, mechanical structure). 20240802 version --> 
 
 <h2 style="font-weight: bolder">About me</h2>
-Greetings! I am a Second year Computer Science PhD student at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Prof. Grant Wilson and Dr. Schoener Holger. Before that, I graduated from the Australian National University and Nanjing University of Science and Technology in 2022 and 2019.
+Greetings! I am a second year Computer Science PhD student at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Prof. Grant Wilson and Dr. Schoener Holger. Before that, I graduated from the Australian National University and Nanjing University of Science and Technology in 2022 and 2019.
 
 
-I am passionate about a wide range of topics in CS, including time series forecasting, domain adaptation, LLM, multi-modal learning. My current main focus is leveraging text data for time series forecasting. If you are also interested with this topic, please drop me an email anytime.
+I am passionate about a wide range of topics in CS, including time series forecasting, domain adaptation, LLM, and multi-modal learning. My current main focus is leveraging text data for time series forecasting. If you are also interested with this topic, please drop me an email anytime.
 
 
 <h2 style="font-weight: bolder">Current Research Focuses</h2>
-<i>(1) Domain adaptation, such as multi-source domain adaptation, online domain adaptation</i><br>
+<i>(1) Domain adaptation, such as multi-source domain adaptation</i><br>
 <i>(2) Time series forecasting, such as LLM-based forecasting</i><br>
 <i>(3) Machine learning applications in complex real-world data, such as building energy prediction</i>
 
