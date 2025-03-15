@@ -23,7 +23,7 @@ jobs:
         bundler-cache: true 
     # 强制安装依赖（这是最关键的一步！）
     - name: Install dependencies
-        run: bundle install
+      run: bundle install
     - name: Install deps
       run: |
         npm install -g mermaid.cli
