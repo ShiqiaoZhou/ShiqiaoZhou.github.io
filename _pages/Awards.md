@@ -14,6 +14,7 @@ nav_order: 5
 •   First Prize in University Mechanical Innovational Design Competition (Top 2%, 2018)<br>
 •	First Prize Academic Scholarships (Top 1%, Spring 2018, Fall 2018)<br>
 •	Third Prize Academic Scholarships (Top 12%, Fall 2016, Spring 2017, Fall 2017)<br>
+
 </p>
 
 
