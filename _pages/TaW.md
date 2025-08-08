@@ -6,11 +6,14 @@ title: Services
 nav: true
 nav_order: 3
 ---
-<!-- <h2 class="post-title">Reviewer</h2>
-•   IJCNN, EAAI -->
+<h2 class="post-title">Talks</h2>
+•  <i>"Text-informed Time Series Forecasting"<i> presented at the <b>Workshop on AI Solutions for Environmental Challenges<b>, University of Birmingham
+
+<h2 class="post-title">Reviewer</h2>
+•   IJCNN, EAAI
 
 <h2 class="post-title">Teaching</h2>
-•   Teaching Assistant of Artificial Intelligence 1, University of Birmingham, 2025
+•   Teaching Assistant of Artificial Intelligence 1, University of Birmingham, 2025 & 2026
 
 •   Teaching Assistant of [COMP6490 Document Analysis](https://programsandcourses.anu.edu.au/2022/course/comp6490), Australian National University, 2022
 
