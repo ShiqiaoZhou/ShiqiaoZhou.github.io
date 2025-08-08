@@ -29,9 +29,9 @@ I am passionate about a wide range of topics in CS, including time series foreca
 
 
 <h2 style="font-weight: bolder">Current Research Focuses</h2>
-<i>(1) Time series forecasting, such as LLM-based forecasting.</i><br>
-<i>(2) Domain adaptation, such as multi-source domain adaptation.</i><br>
-<i>(3) Machine learning applications in complex real-world data, such as building energy prediction.</i>
+<i>(1) Time series forecasting, including LLM-based forecasting and context-informaed forecasting.</i><br>
+<i>(2) Domain adaptation, including multi-source and online domain adaptation.</i><br>
+<i>(3) Machine learning applications in complex real-world data, including building energy prediction.</i>
 
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
