@@ -6,8 +6,8 @@ title: Services
 nav: true
 nav_order: 3
 ---
-<h2 class="post-title">Reviewer</h2>
-•   IJCNN 2025
+<!-- <h2 class="post-title">Reviewer</h2>
+•   IJCNN, EAAI -->
 
 <h2 class="post-title">Teaching</h2>
 •   Teaching Assistant of Artificial Intelligence 1, University of Birmingham, 2025
