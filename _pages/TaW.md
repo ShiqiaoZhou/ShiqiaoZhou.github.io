@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 <h2 class="post-title">Talks</h2>
-•  <i>“Text-informed Time Series Forecasting”</i>, presented at the <b>Workshop on AI Solutions for Environmental Challenges</b>, University of Birmingham, July 2025.
+•  [<i>“Text-informed Time Series Forecasting”</i>](https://bham-my.sharepoint.com/personal/sxz363_student_bham_ac_uk/_layouts/15/guestaccess.aspx?share=EVN1hoqlTC5Aq6gCPFdwBgQBcwMz5hnP5_Tmi4dX65A1gg&e=azXDSV), presented at the <b>Workshop on AI Solutions for Environmental Challenges</b>, University of Birmingham, July 2025.
 
 <h2 class="post-title">Reviewer</h2>
 •   IJCNN, EAAI
