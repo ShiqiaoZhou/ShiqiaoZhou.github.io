@@ -22,7 +22,7 @@ Greetings! I am a first year Computer Science PhD student at [University of Birm
 I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on (1) machine learning topics, such as domain/model adaptation, transfer learning. (2) data stream topics, such as data uncertainty, online learning. (3) machine learning application in complex real-world data (e.g., time series, text, building, mechanical structure). 20240802 version --> 
 
 <h2 style="font-weight: bolder">About me</h2>
-Greetings! I am a second year Computer Science PhD student at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Dr. Shuo Wang](https://phd-shuowang.weebly.com/), Dr. Grant Wilson and Dr. Schoener Holger (Siemens). Before that, I graduated from the Australian National University and Nanjing University of Science and Technology in 2022 and 2019.
+Greetings! I am a second year Computer Science PhD Candidate at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Dr. Shuo Wang](https://phd-shuowang.weebly.com/), Dr. Grant Wilson and Dr. Schoener Holger (Siemens). Before that, I graduated from the Australian National University and Nanjing University of Science and Technology in 2022 and 2019.
 
 
 I am passionate about a wide range of topics in CS, including time series forecasting, domain adaptation, LLM, and multi-modal learning. My current main focus is leveraging text data for time series forecasting. If you are also interested in this topic, feel free to email me anytime.
