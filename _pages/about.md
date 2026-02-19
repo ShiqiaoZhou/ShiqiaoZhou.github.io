@@ -15,21 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<!-- <h2 style="font-weight: bolder">About me</h2>
-Greetings! I am a first year Computer Science PhD student at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Prof. Grant Wilson and Dr. Schoener Holger. Before that, I graduated from the [Australian National University](https://https://www.anu.edu.au/) with Master of Computing in 2022, advised by [Dr. Melina Vidoni](https://melvidoni.rbind.io/#about). I received my B.Eng. in Mechanical Engineering from the [Nanjing University of Science and Technology](https://english.njust.edu.cn/) in 2019, advised by Dr. Jun Han and Dr. Yi Ou. 
-
-
-I am passionate about a wide range of topics in CS, including both method development and applications. My current focuses are on (1) machine learning topics, such as domain/model adaptation, transfer learning. (2) data stream topics, such as data uncertainty, online learning. (3) machine learning application in complex real-world data (e.g., time series, text, building, mechanical structure). 20240802 version --> 
-
 <h2 style="font-weight: bolder">About me</h2>
-Greetings! I am a second year Computer Science PhD Candidate at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Prof. Grant Wilson and Dr. Schoener Holger (Siemens). Before that, I obtained my master’s degree from the Australian National University and my bachelor’s degree from Nanjing University of Science and Technology.
+Greetings! I am a third year Computer Science PhD Candidate at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Assoc. Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Assoc. Prof. Grant Wilson and Dr. Schoener Holger (Siemens). Before that, I obtained my master’s degree from the Australian National University and my bachelor’s degree from Nanjing University of Science and Technology.
 
 
 I am passionate about a wide range of topics in CS, including time series forecasting, domain adaptation, LLM, and multi-modal learning. My current main focus is leveraging text data for time series forecasting. If you are also interested in this topic, feel free to email me anytime.
 
 
 <h2 style="font-weight: bolder">Current Research Focuses</h2>
-<i>(1) Time series forecasting, including LLM-based forecasting and context-informaed forecasting.</i><br>
+<i>(1) Time series forecasting, including multi-modal forecasting and context-informaed forecasting.</i><br>
 <i>(2) Domain adaptation, including multi-source and online domain adaptation.</i><br>
 <i>(3) Machine learning applications in complex real-world data, including building energy analysis.</i>
 
