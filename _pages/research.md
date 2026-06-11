@@ -1,14 +1,14 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /research/
+title: Research
 description: † denotes equal contribution | * denotes corresponding authorship
 years: [2026, 2025]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="research">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
