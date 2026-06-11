@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 <p>
-•   UoB-Siemens PhD Studentship Grant (2023)<br>
+•   EPSRC & Siemens PhD Studentship (2023)<br>
 •   Merit Prize, 5th APAC HPC-AI Competition, Singapore (2022)<br>
 •	Excellent Graduates in Nanjing University of Science and Technology (2019)<br>
 •	Excellent Graduation Design in Nanjing University of Science and Technology (2019)<br>
