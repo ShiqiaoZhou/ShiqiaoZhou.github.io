@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: Research Outputs
+permalink: /publication/
+title: Publication
 description: † denotes equal contribution | * denotes corresponding authorship
 years: [2026, 2025]
 nav: true
