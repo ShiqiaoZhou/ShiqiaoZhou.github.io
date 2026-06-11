@@ -19,12 +19,12 @@ social: true  # includes social icons at the bottom of the page
 Greetings! I am a third year Computer Science PhD Candidate at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Assoc. Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Assoc. Prof. Grant Wilson and Dr. Schoener Holger (Siemens). Before that, I obtained my master’s degree from the Australian National University and my bachelor’s degree from Nanjing University of Science and Technology.
 
 
-I am passionate about a wide range of topics in CS, including time series forecasting, domain adaptation, LLM, and multi-modal learning. My current main focus is leveraging text data for time series forecasting. If you are also interested in this topic, feel free to email me anytime.
+I am passionate about a wide range of topics in CS, including time series forecasting, RAG, Agent, and multi-modal learning. My current main focus is leveraging external inforamtion for time series forecasting. If you are also interested in this topic, feel free to email me anytime.
 
 
 <h2 style="font-weight: bolder">Current Research Focuses</h2>
 <i>(1) Time series forecasting, including multi-modal forecasting and context-informaed forecasting.</i><br>
-<i>(2) Domain adaptation, including multi-source and online domain adaptation.</i><br>
+<i>(2) Retrieval-Augmented Generation, including RAG in Time series and LLM.</i><br>
 <i>(3) Machine learning applications in complex real-world data, including building energy analysis.</i>
 
 
