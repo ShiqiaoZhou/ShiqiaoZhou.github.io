@@ -42,8 +42,8 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html %}
+            <h2 style="color: inherit;">news</h2>
+            {%- include news.html disable_links=true %}
           {%- endif %}
 
           <!-- Selected papers -->
