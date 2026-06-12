@@ -32,6 +32,30 @@ a, table.table a {
   }
 }
 
+.news {
+  table.table {
+    th,
+    td {
+      vertical-align: top;
+    }
+
+    th {
+      text-align: left;
+      white-space: nowrap;
+      width: 8.5rem;
+      padding-right: 1rem;
+    }
+
+    td {
+      width: 100%;
+    }
+  }
+
+  .news-title {
+    color: var(--global-theme-color);
+  }
+}
+
 figure, img {
   max-width: 90vw;
 }
