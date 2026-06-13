@@ -23,7 +23,7 @@ I am passionate about a wide range of topics in computer science, including time
 
 
 <h2 style="font-weight: bolder">Current Research Focuses</h2>
-<i>(1) Time series forecasting, including multi-modal forecasting and context-informaed forecasting.</i><br>
+<i>(1) Time series forecasting, including multi-modal forecasting and context-informed forecasting.</i><br>
 <i>(2) Retrieval-Augmented Generation (RAG), including RAG in time series and LLM.</i><br>
 <i>(3) Machine learning applications in complex real-world data, including building energy analysis.</i>
 
