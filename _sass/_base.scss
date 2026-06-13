@@ -46,8 +46,8 @@ a, table.table a {
     }
   }
 
-  .news-title {
-    color: var(--global-theme-color);
+  table.table .news-title {
+    color: var(--global-theme-color) !important;
   }
 }
 
