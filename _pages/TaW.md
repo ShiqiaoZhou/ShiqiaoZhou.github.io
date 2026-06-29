@@ -27,7 +27,7 @@ nav_order: 3
 •   Mechanical Engineering Intern, [AUTOMOTIVE ENGINEERING CORPORATION](https://en.chinaaie.com.cn/), 2019
 
 <h2 class="post-title">Supervision</h2>
-•   li>One undergraduate student working on building energy prediction, 2026</li>
+•   One undergraduate student working on building energy prediction, 2026
 
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
