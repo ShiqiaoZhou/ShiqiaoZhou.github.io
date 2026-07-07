@@ -9,7 +9,7 @@ nav_order: 3
 <h2 class="post-title">Presentations</h2>
 •  <i>[Text-informed Time Series Forecasting](https://bham-my.sharepoint.com/personal/sxz363_student_bham_ac_uk/_layouts/15/guestaccess.aspx?share=EVN1hoqlTC5Aq6gCPFdwBgQBcwMz5hnP5_Tmi4dX65A1gg&e=azXDSV)</i>, presented at the <b>Workshop on AI Solutions for Environmental Challenges</b>, University of Birmingham, July 2025.
 
-•  <i>[BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting​](https://bham-my.sharepoint.com/personal/sxz363_student_bham_ac_uk/_layouts/15/guestaccess.aspx?share=IQCzT5NZwzcLTLnY3VLqLiEJAYx3n0KROZ8Qfs6RdRc61xI&e=zjotyC)</i>, presented at <b>CIKM 2025</b>, Seoul, Korea, November 2025.
+•  <i>[BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting​](https://bham-my.sharepoint.com/personal/sxz363_student_bham_ac_uk/_layouts/15/guestaccess.aspx?share=IQCHyk1RHMMHSJCdqEATMx-9ASjEsOsv-iQhsTyFsg22W_M&e=aGfppq)</i>, presented at <b>CIKM 2025</b>, Seoul, Korea, November 2025.
 
 <!-- <h2 class="post-title">Reviewer Services</h2>
 •   IJCNN, EAAI -->
