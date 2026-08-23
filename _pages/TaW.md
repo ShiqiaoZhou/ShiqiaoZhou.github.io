@@ -6,7 +6,9 @@ title: Activities
 nav: true
 nav_order: 3
 ---
-<h2 class="post-title">Talks</h2>
+<h2 class="post-title">Presentations</h2>
+•  <i>[BALM-TSF: Balanced Multimodal Alignment for LLM-Based Time Series Forecasting​](https://bham-my.sharepoint.com/personal/sxz363_student_bham_ac_uk/_layouts/15/guestaccess.aspx?share=IQCHyk1RHMMHSJCdqEATMx-9ASjEsOsv-iQhsTyFsg22W_M&e=aGfppq)</i>, presented at <b>CIKM 2025</b>, Seoul, Korea, November 2025.
+
 •  <i>[Text-informed Time Series Forecasting](https://bham-my.sharepoint.com/personal/sxz363_student_bham_ac_uk/_layouts/15/guestaccess.aspx?share=EVN1hoqlTC5Aq6gCPFdwBgQBcwMz5hnP5_Tmi4dX65A1gg&e=azXDSV)</i>, presented at the <b>Workshop on AI Solutions for Environmental Challenges</b>, University of Birmingham, July 2025.
 
 <!-- <h2 class="post-title">Reviewer Services</h2>
@@ -26,8 +28,8 @@ nav_order: 3
 
 •   Mechanical Engineering Intern, [AUTOMOTIVE ENGINEERING CORPORATION](https://en.chinaaie.com.cn/), 2019
 
-<h2 class="post-title">Supervision</h2>
-•   One undergraduate student working on building energy prediction, 2026
+<h2 class="post-title">Research Mentoring</h2>
+•   Mentored one undergraduate student on time series analysis, 2026.
 
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
