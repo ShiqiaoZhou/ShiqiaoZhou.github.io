@@ -15,17 +15,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<h2 style="font-weight: bolder">About me</h2>
-Greetings! I am a third year Computer Science PhD Candidate at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Assoc. Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Assoc. Prof. Grant Wilson and Dr. Schoener Holger (Siemens). Before that, I obtained my master’s degree from the Australian National University and my bachelor’s degree from Nanjing University of Science and Technology.
+<h2 id="about-me" style="font-weight: bolder">About me</h2>
+Greetings! I am a third year Computer Science PhD Candidate at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Assoc. Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Assoc. Prof. Grant Wilson and Dr. Schoener Holger (Siemens). I started my PhD in December 2023. Before that, I obtained my master’s degree from the Australian National University and my bachelor’s degree from Nanjing University of Science and Technology.
 
 
 I am passionate about a wide range of topics in computer science, including time series forecasting, retrieval-augmented generation, AI agents, and multimodal learning. My current research focuses on leveraging external information to improve time series forecasting. If you are also interested in this topic, please feel free to reach out by email.
 
 
 <h2 style="font-weight: bolder">Current Research Focuses</h2>
+<div class="research-focus">
 <i>(1) Time series forecasting, including multi-modal forecasting and context-informed forecasting.</i><br>
 <i>(2) Retrieval-Augmented Generation (RAG), including RAG in time series and LLM.</i><br>
 <i>(3) Machine learning applications in complex real-world data, including building energy analysis.</i>
+</div>
 
 
 <!-- - Statistical ensemble representation of dynamic clusters and restructuring surfaces in catalytic conditions.
