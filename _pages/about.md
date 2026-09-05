@@ -16,16 +16,22 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h2 id="about-me" style="font-weight: bolder">About me</h2>
-Greetings! I am a third year Computer Science PhD Candidate at [University of Birmingham](https://www.birmingham.ac.uk/), where I am co-supervised by [Assoc. Prof. Shuo Wang](https://phd-shuowang.weebly.com/), Assoc. Prof. Grant Wilson and Dr. Schoener Holger (Siemens). I started my PhD in December 2023. Before that, I obtained my master’s degree from the Australian National University and my bachelor’s degree from Nanjing University of Science and Technology.
+
+I have been pursuing a PhD in Computer Science at the [University of Birmingham](https://www.birmingham.ac.uk/) since December 2023, co-supervised by [Assoc. Prof. Shuo Wang](https://phd-shuowang.weebly.com/), [Assoc. Prof. Grant Wilson](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/wilson-grant), and [Dr. Holger Schöner](https://www.ancalime.de/index.en.html) (Siemens). Before that, I obtained my master’s degree from the [Australian National University](https://www.anu.edu.au/) and my bachelor’s degree from [Nanjing University of Science and Technology](https://english.njust.edu.cn/).
 
 
-I am passionate about a wide range of topics in computer science, including time series forecasting, retrieval-augmented generation, AI agents, and multimodal learning. My current research focuses on leveraging external information to improve time series forecasting. If you are also interested in this topic, please feel free to reach out by email.
+<p class="research-summary">My research focuses on <strong>time series forecasting</strong>, <strong>RAG</strong>, <strong>AI agents</strong>, and <strong>multimodal learning</strong>. I am collaborating with researchers at Siemens in Germany and exploring applications of this research within the University of Birmingham’s smart campus. Through this work, I hope to help people better understand and anticipate the possible futures of a complex world.</p>
 
+
+<aside class="opportunity-note" aria-label="Career opportunities">
+  <span class="opportunity-label">Open to opportunities</span>
+  <p>I am seeking internship or full-time opportunities in research or industry, focusing on <strong>time-series forecasting</strong>, <strong>RAG</strong>, and <strong>AI agents</strong>.</p>
+</aside>
 
 <h2 style="font-weight: bolder">Current Research Focuses</h2>
 <div class="research-focus">
-<i>(1) Time series forecasting, including multi-modal forecasting and context-informed forecasting.</i><br>
-<i>(2) Retrieval-Augmented Generation (RAG), including RAG in time series and LLM.</i><br>
+<i>(1) Time series forecasting, including multi-modal forecasting and agentic forecasting.</i><br>
+<i>(2) RAG, including RAG in time series and LLM.</i><br>
 <i>(3) Machine learning applications in complex real-world data, including building energy analysis.</i>
 </div>
 

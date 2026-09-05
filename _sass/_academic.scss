@@ -209,3 +209,32 @@ footer .container { color: var(--global-text-color-light); }
 .publications ol.bibliography li .publication-meta .periodical em {
   color: var(--global-text-color-light);
 }
+
+/* Prominent, static career statement at the end of the biography. */
+.opportunity-note {
+  margin: 26px 0 32px;
+  padding: 20px 24px;
+  border-left: 4px solid #83d6dc;
+  border-radius: 0 10px 10px 0;
+  background: #163861;
+  box-shadow: 0 6px 20px rgba(20, 45, 80, .09);
+}
+.opportunity-note .opportunity-label {
+  display: block;
+  margin-bottom: 8px;
+  color: #bce7ef;
+  font-size: .875rem;
+  font-weight: 600;
+  letter-spacing: .045em;
+}
+.opportunity-note p, .opportunity-note strong { color: #fff; }
+.opportunity-note p { margin: 0; font-size: 1.0625rem; line-height: 1.7; }
+.opportunity-note strong { font-weight: 600; }
+html[data-theme='dark'] .opportunity-note { background: #1b3c65; }
+@media (max-width: 640px) { .opportunity-note { padding: 18px 20px; } }
+@media print {
+  .opportunity-note { background: transparent; box-shadow: none; border: 1px solid #657187; }
+  .opportunity-note p, .opportunity-note strong, .opportunity-note .opportunity-label { color: #142d50; }
+}
+
+.academic-body .research-summary strong { color: var(--global-theme-color); font-weight: 600; }
