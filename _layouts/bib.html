@@ -35,7 +35,7 @@
         {% if entry.venue_label %}
           <span class="venue-label{% if entry.venue_label == 'under review' %} venue-label-review{% endif %}">{{ entry.venue_label | escape }}</span>
         {% endif %}
-        <!-- Journal/Book title and date -->
+        <!-- Journal/Book title; years remain in bibliography data for grouping. -->
         {% assign proceedings = "inproceedings,incollection" | split: ','%}
         {% assign thesis = "thesis,mastersthesis,phdthesis" | split: ','%}
 
@@ -53,12 +53,7 @@
           {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
         {%- endif -%}
 
-        {%- if entry.year -%}
-          {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
-        {%- endif -%}
-
-        {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}
+        {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}
         {% if entry.volume -%}{{ ", " }}{{ entry.volume }}{%- endif -%}
         {% if entry.number -%}{{ ", " }}{{ entry.number }}{%- endif -%}
         {% if entry.pages -%}{{ ", " }}{{ entry.pages }}{%- endif -%}
